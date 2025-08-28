@@ -3,8 +3,6 @@
 Sou **Desenvolvedor Web Front-end Jr.** em formação, apaixonado por criar **interfaces modernas, responsivas e interativas**.  
 Busco sempre unir **design + funcionalidade**, entregando experiências digitais que realmente fazem sentido para o usuário.  
 
-📌 Atualmente, estou desenvolvendo meu **portfólio pessoal** em [raposoofc.github.io](https://raposoofc.github.io), onde compartilho meus projetos e minha evolução no desenvolvimento web.  
-
 ---
 
 ## 🌟 O que eu faço
