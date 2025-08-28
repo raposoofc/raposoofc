@@ -1,58 +1,92 @@
-👋 Bem-vindo(a) ao meu perfil!
+# 👋 Olá, eu sou o Rodolpho Rapôso!
 
-Fala galera, tudo certo?! Me chamo Rodolpho Rapôso!
-Sou um Desenvolvedor Web Front-end apaixonado por criar interfaces web modernas, responsivas e interativas. Com foco em HTML5, CSS3 e JavaScript, estou sempre buscando aprender novas tecnologias e construir projetos que combinem funcionalidade e design. Atualmente, trabalho no meu portfólio pessoal hospedado em raposoofc.github.io, onde demonstro minhas habilidades em desenvolvimento web e design responsivo.
-🌟 O que eu faço:
+Sou **Desenvolvedor Web Front-end Jr.** em formação, apaixonado por criar **interfaces modernas, responsivas e interativas**.  
+Busco sempre unir **design + funcionalidade**, entregando experiências digitais que realmente fazem sentido para o usuário.  
 
-Desenvolvimento de sites e aplicações web com HTML5, CSS3 e JavaScript.
-Criação de interfaces dinâmicas com animações e interações (ex.: menus mobile, scroll suave).
+📌 Atualmente, estou desenvolvendo meu **portfólio pessoal** em [raposoofc.github.io](https://raposoofc.github.io), onde compartilho meus projetos e minha evolução no desenvolvimento web.  
 
-🚀 Habilidades
+---
 
-Linguagens: HTML5, CSS3, JavaScript.
-Frameworks e Ferramentas:  Git, GitHub, VS Code, Figma
-Bancos de Dados: [iniciando os estudos dia 21/07/2025]
-Outros: Design responsivo, animações de interface, controle de versão com Git/GitHub
+## 🌟 O que eu faço
 
-🌐 Projetos em Destaque
+- Desenvolvimento de sites e aplicações web com **HTML5, CSS3 e JavaScript**  
+- Criação de interfaces dinâmicas com animações e interações (ex.: menus mobile, scroll suave)  
+- Projetos responsivos e otimizados para diferentes dispositivos  
 
-Portfólio Pessoal - Um site responsivo construído com HTM5L, CSS3 e JavaScript, com foco em design moderno e interações fluidas, como menu mobile e animações de rolagem.
-Tecnologias: HTM5, CSS3, JavaScript.
-Recursos: Responsividade, animações de scroll, menu mobile otimizado.
+---
 
-Operatta - Projeto Integrador -SENAI AL - Sistema de Gerenciamento para hamburguerias. O objetivo do projeto é otimizar a gestão do negócio com controle de estoque, pedidos, vendas, financeiros e pessoal.
-Tecnologias: HTM5, CSS3, JavaScript, Figma, Scrum, Kanban.
-Recursos: Responsividade, gráficos com Chart.js, interações entre telas, utilização do localStorage como armazenamento de dados. Trabalho em equipe fez total diferença.
-Repositório: https://github.com/raposoofc/Operatta
+## 🚀 Habilidades
 
+### 🌐 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />&nbsp;
+</p>
 
-📫 Como me encontrar
+### ⚙️ Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ajax" height="40" alt="ajax logo" />&nbsp;
+</p>
 
-LinkedIn: https://www.linkedin.com/in/raposoofc/
-E-mail: raposotiweb@gmail.com
-Instagram: @raposoofc.87
-Portfólio: raposoofc.github.io
+### 🛠️ Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />&nbsp;
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo" />&nbsp;
+</p>
 
-🛠️ Como configurar este repositório
+---
+
+## 🌐 Projetos em Destaque
+
+- **[Portfólio Pessoal](https://raposoofc.github.io/)**  
+  Site responsivo construído com HTML5, CSS3 e JavaScript, com foco em design moderno e interações fluidas.  
+  **Tecnologias:** HTML5, CSS3, JavaScript  
+  **Recursos:** Responsividade, animações de scroll, menu mobile otimizado  
+
+- **[Operatta - Projeto Integrador - SENAI AL](https://github.com/raposoofc/Operatta)**  
+  Sistema de Gerenciamento para hamburguerias, com controle de estoque, pedidos, vendas e financeiros.  
+  **Tecnologias:** HTML5, CSS3, JavaScript, Figma, Scrum, Kanban  
+  **Recursos:** Responsividade, gráficos com Chart.js, interações entre telas, localStorage  
+
+- **[Enfermeiro Onco-expert](https://github.com/raposoofc/projeto-enfermeiro-onco-expert)**  
+  Plataforma voltada para apoiar profissionais da saúde na oncologia.  
+  **Tecnologias:** HTML5, CSS3, JavaScript, Figma  
+  **Recursos:** Interface responsiva e intuitiva  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=raposoofc&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raposoofc&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+</div>
+
+---
+
+## 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/raposoofc/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:raposotiweb@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/raposoofc.87)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=fff)](https://raposoofc.github.io)  
+
+---
+
+## 🛠️ Como configurar este repositório
+
 Se você quiser explorar ou contribuir com meu portfólio:
 
-Clone o repositório:git clone https://github.com/raposoofc/raposoofc.github.io.git
-
-
-Abra o projeto no VS Code e use a extensão Live Server para visualizar localmente.
-Faça suas alterações e envie um pull request! 🚀
-
-💡 Curiosidades sobre mim
-
-📚 Sempre aprendendo algo novo, atualmente explorando tenho estudado com Gustavo Guanabara no canal Curso em Vídeo, com o curso do Iuri Code na HotMart e alguns cursos na Udemy como Fundamentos de Postman e Fundamentos de Python.
-🎮 Apaixonado por minha filha, por Jesus e N. Sra. das Graças, pelo Flamengo, por pagode, churrasco, forró e comédia.
-☕ Código e café são minha combinação perfeita!
-
-
-⭐ Gostou do meu trabalho? Dê uma estrela no repositório e conecte-se comigo!
--->
-
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+```bash
+git clone https://github.com/raposoofc/raposoofc.github.io.git
