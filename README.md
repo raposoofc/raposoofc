@@ -1,7 +1,8 @@
-# 👋 Olá, eu sou o Rodolpho Rapôso!
+# 👋 Olá, eu sou o Rodolpho Rapôso
 
-Sou **Desenvolvedor Web Front-end Jr.** em formação, apaixonado por criar **interfaces modernas, responsivas e interativas**.  
-Busco sempre unir **design + funcionalidade**, entregando experiências digitais que realmente fazem sentido para o usuário.  
+💻 Desenvolvedor Front-end Jr. em formação (3° Semestre no curso Técnico em Informática para Internet – SENAI AL).  
+🚀 Apaixonado por criar soluções criativas e funcionais para web.  
+📚 Atualmente estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferramentas tais quais listadas abaixo.  
 
 ---
 
@@ -20,7 +21,6 @@ Busco sempre unir **design + funcionalidade**, entregando experiências digitais
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />&nbsp;
@@ -31,7 +31,6 @@ Busco sempre unir **design + funcionalidade**, entregando experiências digitais
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ajax" height="40" alt="ajax logo" />&nbsp;
 </p>
 
 ### 🛠️ Ferramentas
@@ -51,40 +50,55 @@ Busco sempre unir **design + funcionalidade**, entregando experiências digitais
 - **[Portfólio Pessoal](https://raposoofc.github.io/)**  
   Site responsivo construído com HTML5, CSS3 e JavaScript, com foco em design moderno e interações fluidas.  
   **Tecnologias:** HTML5, CSS3, JavaScript  
-  **Recursos:** Responsividade, animações de scroll, menu mobile otimizado  
+  **Recursos:** UI/UX Designer & Responsividade, animações de scroll, menu mobile otimizado.  
 
-- **[Operatta - Projeto Integrador - SENAI AL](https://github.com/raposoofc/Operatta)**  
+- **[Operatta - Projeto Integrador - SENAI/AL](https://github.com/raposoofc/Operatta)**  
   Sistema de Gerenciamento para hamburguerias, com controle de estoque, pedidos, vendas e financeiros.  
-  **Tecnologias:** HTML5, CSS3, JavaScript, Figma, Scrum, Kanban  
+  **Tecnologias:** HTML5, CSS3, JavaScript, Figma, Scrum, Kanban
   **Recursos:** Responsividade, gráficos com Chart.js, interações entre telas, localStorage  
 
 - **[Enfermeiro Onco-expert](https://github.com/raposoofc/projeto-enfermeiro-onco-expert)**  
   Plataforma voltada para apoiar profissionais da saúde na oncologia.  
-  **Tecnologias:** HTML5, CSS3, JavaScript, Figma  
-  **Recursos:** Interface responsiva e intuitiva  
+  **Tecnologias:** HTML5, CSS3, JavaScript, Figma
+  **Recursos:** UI/UX Designer & Responsividade, Interface intuitiva, interações entre seções e telas, carrossel dinâmico.
+
+---
+
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=raposoofc&theme=dark&hide_border=false&border_radius=10&locale=pt_BR&short_numbers=false&date_format=M%20j%5B%2C%20Y%5D&mode=dayly)](https://git.io/streak-stats)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=raposoofc&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raposoofc&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+<div align="center" style="display: flex; gap: 40px;">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raposoofc&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raposoofc&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+
 </div>
 
 ---
 
-## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/raposoofc/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:raposotiweb@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/raposoofc.87)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=fff)](https://raposoofc.github.io)  
+## 📬 Conecte-se comigo  
+
+<p>
+  <a href="https://www.linkedin.com/in/raposoofc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn logo"/>
+  </a>&nbsp;
+  
+  <a href="mailto:raposotiweb@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail logo"/>
+  </a>&nbsp;
+  
+  <a href="https://www.instagram.com/raposoofc.87" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram logo"/>
+  </a>&nbsp;
+  
+  <a href="https://github.com/raposoofc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub logo"/>
+  </a>&nbsp;
+</p>
 
 ---
-
-## 🛠️ Como configurar este repositório
-
-Se você quiser explorar ou contribuir com meu portfólio:
-
-```bash
-git clone https://github.com/raposoofc/raposoofc.github.io.git
