@@ -65,7 +65,7 @@
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=raposoofc&theme=dark&hide_border=false&border_radius=10&locale=pt_BR&short_numbers=false&date_format=M%20j%5B%2C%20Y%5D&mode=dayly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raposoofc&theme=dark&hide_border=false&border_radius=10&locale=pt_BR&short_numbers=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
