@@ -65,8 +65,7 @@
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raposoofc&theme=dark&hide_border=false&border_radius=10&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raposoofc&theme=dark&hide_border=false&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
 ---
 
 ## 📊 Estatísticas do GitHub
