@@ -41,6 +41,7 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code logo" />&nbsp;
 </p>
 
 ---
